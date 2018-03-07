@@ -6,6 +6,15 @@
 * 前端主要技术:jQuery+bootstrap
 * 服务器：tomcat<br>
 ## 只需修改src/main/resources/static/assets/qr 文件下的支付二维码即可 其他内容看代码内注释<br>
+## 具体功能展示
+捐赠者填写捐赠信息并支付 后台通过邮箱发送支付信息（支付成功或失败等）给捐赠者
+![image](https://github.com/tongweixu/pay/raw/master/Readme_image/捕获l.PNG) 
+![image](https://github.com/tongweixu/pay/raw/master/Readme_image/捕获2.PNG) 
+捐赠者提交支付是，管理员收到审核邮件，审核支付情况和修改支付信息
+![image](https://github.com/tongweixu/pay/raw/master/Readme_image/捕获3.PNG) 
+![image](https://github.com/tongweixu/pay/raw/master/Readme_image/捕获4.PNG) 
+各捐赠者捐赠情况
+![image](https://github.com/tongweixu/pay/raw/master/Readme_image/捕获5.PNG) 
 
 
 
